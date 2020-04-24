@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 425 East 11th, Vancouver, BC, Canada
-email: 425@funvill.com
-description: Small site for the people that live at 425 East 11th, Vancouver, BC, Canada to talk to each other. 
+email: 
+description: A site for the people that live at 425 East 11th, Vancouver, BC, Canada to talk to each other. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://425.abluestar.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: funvill

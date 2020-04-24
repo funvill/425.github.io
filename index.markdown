@@ -5,5 +5,4 @@
 layout: page
 ---
 
-
-Comment page for people living at 425 East 11. Go see the <a href='/garden/'>garden page</a>
+A good place to start is the <a href='/garden/'>garden page</a>.

@@ -22,7 +22,7 @@ title: 425 East 11th, Vancouver, BC, Canada
 email: 
 description: A site for the people that live at 425 East 11th, Vancouver, BC, Canada to talk to each other. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://425.abluestar.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://425.abluestar.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: funvill
 github_username:  funvill
 

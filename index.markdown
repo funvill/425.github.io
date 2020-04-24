@@ -5,4 +5,8 @@
 layout: page
 ---
 
-A good place to start is the <a href='/garden/'>garden page</a>.
+A good place to start is the <a href='/garden/'>garden page</a>. 
+
+For random comments goto <a href='/general/'>general</a>.
+
+For live chat goto <a href='/chat/'>chat</a>
